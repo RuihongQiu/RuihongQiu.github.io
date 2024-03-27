@@ -52,6 +52,26 @@ td, th {
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/caselink.jpg" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>CaseLink: Inductive Graph Learning for Legal Case Retrieval</strong>
+              <br>
+              Yanran Tang, <strong>Ruihong Qiu</strong>, Hongzhi Yin, Xue Li, Zi Huang
+              <br>
+              SIGIR 2024
+              <br>
+              <a href="https://arxiv.org/abs/2403.17780" target="_blank">arXiv</a> /
+              <a href="https://github.com/yanran-tang/CaseLink" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We introduce an inductive graph learning paradigm for legal case retrieval to tackle the challenge of unseen testing query and candidate cases.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/casegnn.jpg" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -297,6 +317,6 @@ Service
 * Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
 * PC member: ACML'20, AJCAI'23, CIKM'24'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'24'23'20, SIGIR'24'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21
 
-Updated on 20/3/2024.
+Updated on 27/3/2024.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>

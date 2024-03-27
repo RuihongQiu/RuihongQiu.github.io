@@ -23,11 +23,13 @@ Full collection of publications on <a href="https://scholar.google.com/citations
   {% endif %}
 {% endfor %} -->
 
+[19] Yanran Tang\*, **Ruihong Qiu**, Hongzhi Yin, Xue Li and Zi Huang, CaseLink: Inductive Graph Learning for Legal Case Retrieval, in *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2024 (CORE A\*)*
+
 [18] Yilun Liu\*, **Ruihong Qiu**, Yanran Tang, Zi Huang, Hongzhi Yin, PUMA: Efficient Continual Graph Learning with Graph Condensation, in *IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024 (Q1, under review)*
 
 [17] Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li and Zi Huang, CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs, in *European Conference on Information Retrieval (ECIR) 2024 (CORE A)*
 
-[16] Anjie Zhu\*, Peng-Fei Zhang, **Ruihong Qiu**, Zetao Zheng, Zi Huang, Jie Shao, Abstract and Explore: A Novel Behavioral Metric with Cyclic Dynamics in Reinforcement Learning, in *Annual AAAI Conference on Artificial Intelligence (AAAI) 2024 (CORE A\*)*
+[16] Anjie Zhu, Peng-Fei Zhang, **Ruihong Qiu**, Zetao Zheng, Zi Huang, Jie Shao, Abstract and Explore: A Novel Behavioral Metric with Cyclic Dynamics in Reinforcement Learning, in *Annual AAAI Conference on Artificial Intelligence (AAAI) 2024 (CORE A\*)*
 
 [15] Jiasheng Duan, Peng-Fei Zhang, **Ruihong Qiu**, Zi Huang, Long short-term enhanced memory for sequential recommendation, in *World Wide Web 2023*
 
