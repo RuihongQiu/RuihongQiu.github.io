@@ -20,7 +20,9 @@ Recruitment: Open positions all year round!</a>
 
 Recent News
 =====
-* 03.2024 Give a talk, "Graph Learning Methods in Session-based Recommendations and Legal Case Retrieval" at [IRonGraphs Workshop at ECIR 2024](https://irongraphs.github.io/ecir2024/){:target="_blank"}. [\[slides\]](../files/GraphIR_IRonGraph_ECIR.pdf){:target="_blank"}
+* 05.2024 Our team gives a talk, "Effective Representation Learning for Legal Case Retrieval", at THUIR, Tsinghua University. [\[slides\]](../files/LCR_THUIR.pdf){:target="_blank"}
+
+* 03.2024 Give a talk, "Graph Learning Methods in Session-based Recommendations and Legal Case Retrieval", at [IRonGraphs Workshop at ECIR 2024](https://irongraphs.github.io/ecir2024/){:target="_blank"}. [\[slides\]](../files/GraphIR_IRonGraph_ECIR.pdf){:target="_blank"}
 
 * 12.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at CSIRO.
 
@@ -49,6 +51,74 @@ td, th {
 }
 </style>
 
+## Graph Condensation
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/gcondenser.png" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>GCondenser: Benchmarking Graph Condensation</strong>
+              <br>
+              Yilun Liu, <strong>Ruihong Qiu</strong>, Zi Huang
+              <br>
+              Preprint
+              <br>
+              <a href="https://arxiv.org/abs/2405.14246" target="_blank">arXiv</a> /
+              <a href="https://github.com/superallen13/GCondenser" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We introduce a benchmark for graph condensation with a thorough methodology development method and an extensive evaluation protocol.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/puma.png" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>PUMA: Efficient Continual Graph Learning with Graph Condensation</strong>
+              <br>
+              Yilun Liu, <strong>Ruihong Qiu</strong>, Yanran Tang, Hongzhi Yin, Zi Huang
+              <br>
+              TKDE 2024 (major revision)
+              <br>
+              <a href="https://arxiv.org/abs/2312.14439" target="_blank">arXiv</a> /
+              <a href="https://github.com/superallen13/PUMA" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We extend the Condense-and-Train (CaT) continual graph learning algorithm with a more efficient and effective, psudo-label guided memory bank (PUMA🐆) framework.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/cat.jpg" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>CaT: Balanced Continual Graph Learning with Graph Condensation</strong>
+              <br>
+              Yilun Liu, <strong>Ruihong Qiu</strong>, Zi Huang
+              <br>
+              ICDM 2023
+              <br>
+              <a href="https://arxiv.org/abs/2309.09455" target="_blank">arXiv</a> /
+              <a href="https://github.com/superallen13/CaT-CGL" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We introduce a Condense-and-Train (CaT🐱) memory-based continual graph learning algorithm using graph condensation to construct a more representative memory bank. And a Train-in-Memory continual learning scheme can further alleviate the imbalanced training issue in Class Incremental Learning.
+              </p>
+            </td>
+          </tr>
+</tbody>
+</table>
+
+## Legal Case Retrieval
+
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
@@ -72,6 +142,26 @@ td, th {
           </tr>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/casegnn++.png" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation</strong>
+              <br>
+              Yanran Tang, <strong>Ruihong Qiu</strong>, Yilun Liu, Xue Li, Zi Huang
+              <br>
+              TOIS 2024 (under review)
+              <br>
+              <a href="https://arxiv.org/abs/2405.11791" target="_blank">arXiv</a> /
+              <a href="https://github.com/yanran-tang/CaseGNN" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We introduce an extended CaseGNN++ method with graph augmentations based on the CaseGNN framework.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/casegnn.jpg" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -86,30 +176,17 @@ td, th {
               <p></p>
               <p></p>
               <p>
-                We introduce a structural modelling of law case for effective retrieval with the aid of summarisation from LLM.
+                We introduce a structural modelling of law case for effective retrieval with the aid of summarisation from LLM and grpah neural networks.
               </p>
             </td>
           </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/cat.jpg" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>CaT: Balanced Continual Graph Learning with Graph Condensation</strong>
-              <br>
-              Yilun Liu, <strong>Ruihong Qiu</strong>, Zi Huang
-              <br>
-              ICDM 2023
-              <br>
-              <a href="https://arxiv.org/abs/2309.09455" target="_blank">arXiv</a> /
-              <a href="https://github.com/superallen13/CaT-CGL" target="_blank">code</a>
-              <p></p>
-              <p></p>
-              <p>
-                We introduce a memory-based continual graph learning algorithm using graph condensation to construct a more representative memory bank. And a Train-in-Memory continual learning scheme can further alleviate the imbalanced training issue in Class Incremental Learning (CaT🐱).
-              </p>
-            </td>
-          </tr>
+</tbody>
+</table>
+
+
+## Recommender Systems
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/overrec.JPG" alt="PontTuset" width="200" style="border-style: none">
@@ -148,25 +225,6 @@ td, th {
               <p></p>
               <p>
                 We discover and find the cause of representation degeneration problem in sequential recommendation (DuoRec). A contrastive learning regularisation is applied to enforce the distribution to be uniform.
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/n2o.jpeg" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>An integrated first principal and deep learning approach for modeling nitrous oxide emissions from wastewater treatment plants</strong>
-              <br>
-              Kaili Li, Haoran Duan, Linfeng Liu, <strong>Ruihong Qiu</strong>, Ben van den Akker, Bing-Jie Ni, Tong Chen, Hongzhi Yin, Zhiguo Yuan, Liu Ye
-              <br>
-              Environmental Science & Technology 2022
-              <br>
-              <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c05020" target="_blank">PDF</a>
-              <p></p>
-              <p></p>
-              <p>
-                We use sequential modelling in deep learning to predict the amount of emitted N<sub>2</sub>O with green-house effect.
               </p>
             </td>
           </tr>
@@ -294,6 +352,31 @@ td, th {
 </tbody>
 </table>
 
+## Water Management with Data Science
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/n2o.jpeg" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>An integrated first principal and deep learning approach for modeling nitrous oxide emissions from wastewater treatment plants</strong>
+              <br>
+              Kaili Li, Haoran Duan, Linfeng Liu, <strong>Ruihong Qiu</strong>, Ben van den Akker, Bing-Jie Ni, Tong Chen, Hongzhi Yin, Zhiguo Yuan, Liu Ye
+              <br>
+              Environmental Science & Technology 2022
+              <br>
+              <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c05020" target="_blank">PDF</a>
+              <p></p>
+              <p></p>
+              <p>
+                We use sequential modelling in deep learning to predict the amount of emitted N<sub>2</sub>O with green-house effect.
+              </p>
+            </td>
+          </tr>
+</tbody>
+</table>
+
 Team
 =====
 * <a href="https://yanjiangjerry.github.io/" target="_blank"> Yan Jiang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
@@ -317,6 +400,6 @@ Teaching
 * Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
 * PC member: ACML'20, AJCAI'23, CIKM'24'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'24'23'20, SIGIR'24'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21 -->
 
-Updated on 27/3/2024.
+Updated on 10/06/2024.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>

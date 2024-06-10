@@ -7,6 +7,8 @@ author_profile: true
 
 Full collection of publications on <a href="https://scholar.google.com/citations?user=zbRZyuEAAAAJ" target="_blank">Google Scholar</a>.
 
+\* indicates PhD student(s) mentored by me.
+
 <!-- {% include base_path %}
 
 <h2>Journal</h2>
@@ -23,9 +25,13 @@ Full collection of publications on <a href="https://scholar.google.com/citations
   {% endif %}
 {% endfor %} -->
 
+[21] Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensation, in *Preprint 2024*
+
+[20] Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li and Zi Huang, CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation, in *ACM Transactions on Information Systems (TOIS) 2024 (Q1, under review)*
+
 [19] Yanran Tang\*, **Ruihong Qiu**, Hongzhi Yin, Xue Li and Zi Huang, CaseLink: Inductive Graph Learning for Legal Case Retrieval, in *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2024 (CORE A\*)*
 
-[18] Yilun Liu\*, **Ruihong Qiu**, Yanran Tang, Zi Huang, Hongzhi Yin, PUMA: Efficient Continual Graph Learning with Graph Condensation, in *IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024 (Q1, under review)*
+[18] Yilun Liu\*, **Ruihong Qiu**, Yanran Tang, Zi Huang, Hongzhi Yin, PUMA: Efficient Continual Graph Learning with Graph Condensation, in *IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024 (Q1, major revision)*
 
 [17] Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li and Zi Huang, CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs, in *European Conference on Information Retrieval (ECIR) 2024 (CORE A)*
 
@@ -61,5 +67,3 @@ in *International Conference on Computer Vision (ICCV) 2021 (CORE A\*)*
 [2] **Ruihong Qiu**, Hongzhi Yin, Zi Huang, Tong Chen, GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation, in *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020 (CORE A\*)*
 
 [1] **Ruihong Qiu**, Jingjing Li, Zi Huang, Hongzhi Yin, Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks, in *ACM International Conference on Information and Knowledge Management (CIKM) 2019 (CORE A)*
-
-\* indicates student author(s) mentored by me.
