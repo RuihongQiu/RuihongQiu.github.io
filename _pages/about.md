@@ -20,6 +20,8 @@ Recruitment: Open positions all year round!</a>
 
 Recent News
 =====
+* 06.2024 Our team gives a talk, "Effective Representation Learning for Legal Case Retrieval", at IR Seminar, the University of Glasgow. [\[slides\]](../files/LCR_THUIR.pdf){:target="_blank"}
+
 * 05.2024 Our team gives a talk, "Effective Representation Learning for Legal Case Retrieval", at THUIR, Tsinghua University. [\[slides\]](../files/LCR_THUIR.pdf){:target="_blank"}
 
 * 03.2024 Give a talk, "Graph Learning Methods in Session-based Recommendations and Legal Case Retrieval", at [IRonGraphs Workshop at ECIR 2024](https://irongraphs.github.io/ecir2024/){:target="_blank"}. [\[slides\]](../files/GraphIR_IRonGraph_ECIR.pdf){:target="_blank"}
