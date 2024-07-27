@@ -25,9 +25,11 @@ Full collection of publications on <a href="https://scholar.google.com/citations
   {% endif %}
 {% endfor %} -->
 
-[21] Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensation, in *Preprint 2024*
+[22] Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensation, in *Preprint 2024*
 
-[20] Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li and Zi Huang, CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation, in *ACM Transactions on Information Systems (TOIS) 2024 (Q1, under review)*
+[21] Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li and Zi Huang, CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation, in *ACM Transactions on Information Systems (TOIS) 2024 (Q1, under review)*
+
+[20] Yi Zhang\*, **Ruihong Qiu**, Jiajun Liu, and Sen Wang, ROLeR: Effective Reward Shaping in Offline Reinforcement Learning for Recommender Systems, in *ACM International Conference on Information and Knowledge Management (CIKM) 2024 (CORE A)*
 
 [19] Yanran Tang\*, **Ruihong Qiu**, Hongzhi Yin, Xue Li and Zi Huang, CaseLink: Inductive Graph Learning for Legal Case Retrieval, in *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2024 (CORE A\*)*
 
