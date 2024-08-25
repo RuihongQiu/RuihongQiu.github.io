@@ -9,7 +9,7 @@ redirect_from:
 ---
 邱瑞鸿 /`ray hong chill/
 
-I am currently an Associate Lecturer and a Postdoctoral Research Fellow in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I did my PhD in computer science from 2019 to 2022 at UQ, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>.
+I am currently a DECRA fellow (2025-2027), an Associate Lecturer and a Postdoctoral Research Fellow in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I did my PhD in computer science from 2019 to 2022 at UQ, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>.
 
 My research focuses on data science methods, including theory and application for various real-world scenarios, such as recommender systems, social network, urban computing, engineering, law, health etc.
 
@@ -20,6 +20,8 @@ Recruitment: Open positions all year round!</a>
 
 Recent News
 =====
+* 08.2024 DECRA project funded, "Lifelong Paradigms for Versatile, Robust and Agile Recommender Systems" (2025-2027)
+
 * 06.2024 Our team gives a talk, "Effective Representation Learning for Legal Case Retrieval", at IR Seminar, the University of Glasgow. [\[slides\]](../files/LCR_THUIR.pdf){:target="_blank"}
 
 * 05.2024 Our team gives a talk, "Effective Representation Learning for Legal Case Retrieval", at THUIR, Tsinghua University. [\[slides\]](../files/LCR_THUIR.pdf){:target="_blank"}
@@ -381,27 +383,28 @@ td, th {
 
 Team
 =====
+* Boyu Luo, UQ EECS PhD (7.2024-, co-advise with Helen Huang and Guangdong Bai)
 * <a href="https://yanjiangjerry.github.io/" target="_blank"> Yan Jiang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
 * <a href="https://www.linkedin.com/in/danny-wang-374581217/" target="_blank"> Danny Wang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
 * Yi Zhang, UQ EECS PhD (4.2023-, co-advise with Sen Wang and Jiajun Liu)
 * <a href="https://www.linkedin.com/in/yilun-allen-liu-a6b7b7190/" target="_blank"> Yilun Liu</a>, UQ EECS PhD (1.2023-, co-advise with Helen Huang)
 * <a href="https://acweb.uq.edu.au/profile/1183/jingyu" target="_blank"> Jingyu Ge</a>, UQ ACWEB PhD (1.2022-, co-advise with Zhiguo Yuan, Helen Huang, and Jiuling Li)
 
-Teaching
+<!-- Teaching
 =====
 * <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/132419" target="_blank"> Social Analytics</a>, UQ BSAN7207 (Coordinator and Lecturer, Sem 1, 2024)
-* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Co-Coordinator and Lecturer, Sem 2, 2023 with Student Evaluation **4.6/5**; Sem 1, 2024)
+* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Co-Coordinator and Lecturer, Sem 2, 2023 with Student Evaluation **4.6/5**; Sem 1, 2024) -->
 <!-- * Data Mining, UQ INFS4203/7203 (Sem 2, 2022, Guest Lecturer) -->
 <!-- * Data Mining, UQ INFS4203/7203 (Sem 2, 2021, TA) -->
 <!-- * Cloud Computing, UQ INFS3208/7208 (Sem 2, 2020, TA) -->
 <!-- * Cloud Computing, UQ INFS3208/7208 (Sem 2, 2019, TA) -->
 
-<!-- Service
+Service
 =====
-* Conference organisation: Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Co-Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>, Session Chair at AJCAI'23, ADMA'22
-* Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
+* Conference organisation: PhD Symposium Co-chair at <a href="https://www2025.thewebconf.org/organizing-committee" target="_blank"> WWW'25</a>, Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Co-Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>
+<!-- * Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
 * PC member: ACML'20, AJCAI'23, CIKM'24'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'24'23'20, SIGIR'24'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21 -->
 
-Updated on 27/07/2024.
+Updated on 25/08/2024.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
