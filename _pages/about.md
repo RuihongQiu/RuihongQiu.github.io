@@ -20,7 +20,7 @@ Recruitment: Open positions all year round!</a>
 
 Recent News
 =====
-* 08.2024 DECRA project funded, "Lifelong Paradigms for Versatile, Robust and Agile Recommender Systems" (2025-2027)
+* 08.2024 ARC DECRA project funded, "Lifelong Paradigms for Versatile, Robust and Agile Recommender Systems" (2025-2027)
 
 * 06.2024 Our team gives a talk, "Effective Representation Learning for Legal Case Retrieval", at IR Seminar, the University of Glasgow. [\[slides\]](../files/LCR_THUIR.pdf){:target="_blank"}
 

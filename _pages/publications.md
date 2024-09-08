@@ -25,11 +25,13 @@ Full collection of publications on <a href="https://scholar.google.com/citations
   {% endif %}
 {% endfor %} -->
 
-[22] Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensation, in *Preprint 2024*
+[23] Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensation, in *Preprint 2024*
 
-[21] Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li and Zi Huang, CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation, in *ACM Transactions on Information Systems (TOIS) 2024 (Q1, under review)*
+[22] Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li, Zi Huang, CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation, in *ACM Transactions on Information Systems (TOIS) 2024 (Q1, under review)*
 
-[20] Yi Zhang\*, **Ruihong Qiu**, Jiajun Liu, and Sen Wang, ROLeR: Effective Reward Shaping in Offline Reinforcement Learning for Recommender Systems, in *ACM International Conference on Information and Knowledge Management (CIKM) 2024 (CORE A)*
+[21] Hrishikesh Patel\*, **Ruihong Qiu**, Adam Irwin, Shazia Sadiq, Sen Wang, EMIT: Event-based Masked Autoencoders for Irregular Time Series Representation Learning, in *IEEE International Conference on Data Mining (ICDM) 2024 (CORE A\*)*
+
+[20] Yi Zhang\*, **Ruihong Qiu**, Jiajun Liu, Sen Wang, ROLeR: Effective Reward Shaping in Offline Reinforcement Learning for Recommender Systems, in *ACM International Conference on Information and Knowledge Management (CIKM) 2024 (CORE A)*
 
 [19] Yanran Tang\*, **Ruihong Qiu**, Hongzhi Yin, Xue Li and Zi Huang, CaseLink: Inductive Graph Learning for Legal Case Retrieval, in *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2024 (CORE A\*)*
 
