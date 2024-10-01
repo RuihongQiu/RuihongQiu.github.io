@@ -9,7 +9,7 @@ redirect_from:
 ---
 邱瑞鸿 /`ray hong chill/
 
-I am currently a Lecturer (<a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Assistant Professor</a>) and an ARC DECRA fellow (2025-2027), in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I did my PhD in computer science from 2019 to 2022 at UQ, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>.
+I am currently a Lecturer (<a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Assistant Professor</a>) and an ARC DECRA fellow (2025-2027), in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I did my PhD in computer science at UQ from 2019 to 2022, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>. I obtained my bachelor degree in electrical engineering at Beihang University (BUAA) from 2014-2018.
 
 My research focuses on data science methods, including theory and application for various real-world scenarios, such as recommender systems, social network, urban computing, engineering, law, health etc.
 
