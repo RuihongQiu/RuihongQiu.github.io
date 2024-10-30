@@ -13,7 +13,7 @@ author_profile: true
 1. **Graph Neural Networks**
   * Text-attributed graph and multimodal graph with (M)LLMs
   * Graph foundation models
-  * Robustness and scalability of graph learning (OOD, test-time, condensation, distillation, graph-MLP etc.)
+  * Robustness and scalability of graph learning (OOD, test-time, condensation, graph-MLP distillation etc.)
 2. **Recommendations and Information Retrieval**
   * RL for recommendations
   * Rich side-information in recommendations with (M)LLMs

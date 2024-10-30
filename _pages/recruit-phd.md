@@ -13,7 +13,7 @@ I am actively looking for self-motivated students interested in data science and
 1. **Graph Neural Networks**
   * Text-attributed graph and multimodal graph with (M)LLMs
   * Graph foundation models
-  * Robustness and scalability of graph learning (OOD, test-time, condensation, distillation, graph-MLP etc.)
+  * Robustness and scalability of graph learning (OOD, test-time, condensation, graph-MLP distillation etc.)
 2. **Recommendations and Information Retrieval**
   * RL for recommendations
   * Rich side-information in recommendations with (M)LLMs
@@ -26,7 +26,7 @@ I am actively looking for self-motivated students interested in data science and
 **What I will provide:**
 1. Fully funded position with international conference travel.
 2. Nice and friendly environment.
-3. Freedom to choose topics, or I will provide ideas. Freedom to choose self-direction or close-supervision. I value self-motivation. (Tips: PhD study in Aus is short, in 3-4 years. Thus pace and progress is important to finish PhD in a successful style.)
+3. Freedom to choose topics, or I will provide ideas. Freedom to choose self-direction or close-supervision. I value self-motivation. (Tips: PhD study in Aus is short, typically taking 3-4 years. Thus pace and progress is important to finish PhD in a successful style.)
 4. Academic training, including research vision, presentation, academic writing, collaborations, management, soft skills, etc.
 5. Strong support for collaborations, internships, awards, and career development.
 
@@ -36,7 +36,7 @@ I am actively looking for self-motivated students interested in data science and
 3. ~80 A100/H100 GPU cards in cluster.
 4. UQ requires PhD students to have at least one co-advisor. I highly value the diverse research direction, student's will and freedom in co-advisor choice.
 5. One of the most beautiful campuses in the world/Australia, but really close to the city center. Sufficient facilities for various sports and cultural activities.
-6. The PhD study in Aus is short in 3-4 years, which is especially suitable for students aiming for industry or already completing a master degree. (Also very suitable for pursuing faculty job. Our group has many excellent PhDs serving as faculty members in Australia, Mainland China, HK, Europe) (Bachelor with a great potential but without any experience is very welcome as well, yet the challenge should be evaluated in advance)
+6. The PhD study in Aus is short, typically taking 3-4 years, which is especially suitable for students aiming for industry or already completing a master degree. (Also very suitable for pursuing faculty job. Our group has many excellent PhDs serving as faculty members in Australia, Mainland China, HK, Europe.) (Bachelor with a great potential but without any experience is very welcome as well, yet the challenge should be evaluated in advance.)
 
 **Why Brisbane, Queensland:**
 1. Brisbane is a VERY SAFE, large, modern and convenient city, with direct flights to many major cities in the world.
