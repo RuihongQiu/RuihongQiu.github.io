@@ -35,7 +35,7 @@ I am actively looking for self-motivated students interested in data science and
 2. The Data Science group is rapidly growing, with 4 ARC Future Fellows and 9 ARC DECRA Fellows in faculty members.
 3. ~80 A100/H100 GPU cards in cluster.
 4. One of the most beautiful campuses in the world/Australia, but really close to the city center. Sufficient facilities for various sports and cultural activities.
-5. The PhD study in Aus is short in 3-4 years, which is especially suitable for students aiming for industry or already completing a master degree. (Bachelor with a great potential but without any experience is very welcome as well, yet the challenge should be evaluated in advance :))
+5. The PhD study in Aus is short in 3-4 years, which is especially suitable for students aiming for industry or already completing a master degree. (Also very suitable for pursuing faculty job. Our group has many excellent PhDs serving as faculty members in Australia, Mainland China, HK, Europe) (Bachelor with a great potential but without any experience is very welcome as well, yet the challenge should be evaluated in advance)
 
 **Why Brisbane, Queensland:**
 1. Brisbane is a VERY SAFE, large, modern and convenient city, with direct flights to many major cities in the world.
