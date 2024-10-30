@@ -40,7 +40,7 @@ I am actively looking for self-motivated students interested in data science and
 
 **Why Brisbane, Queensland:**
 1. Brisbane is a VERY SAFE, large, modern and convenient city, with direct flights to many major cities in the world.
-2. The campus is located in St Lucia suburb, which is just 15min bus away from city center. Yes, Brisbane has a fast, punctual, complete, safe and operating-until-late-night public transport system, with bus, train, light rail, ferries, metro (coming soon).
+2. The campus is located in St Lucia suburb, which is just 15min bus away from city center. Yes, Brisbane has a fast, punctual, complete, safe and operating-until-late-night public transport system, with bus, train, light rail, ferries, metro.
 3. Diverse, vibrant, inclusive and friendly international culture, including sports, music, food, etc.
 4. Beach, coastline, island, one of the best ocean scenes in Australia and the world.
 5. Friendly international immigrant/VISA support for CS PhDs.
