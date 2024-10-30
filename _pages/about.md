@@ -9,14 +9,25 @@ redirect_from:
 ---
 邱瑞鸿 /`ray hong chill/
 
-I am currently a Lecturer (<a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Assistant Professor</a>) and an ARC DECRA fellow (2025-2027), in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I did my PhD in computer science at UQ from 2019 to 2022, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>. I obtained my bachelor degree in electrical engineering at Beihang University (BUAA) from 2014-2018.
+I am currently a <a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Lecturer/Assistant Professor</a> and an ARC DECRA fellow (2025-2027) in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I completed my PhD in Computer Science at UQ from 2019 to 2022 and subsequently worked as a Postdoctoral Research Fellow from 2022 to 2024, collaborating with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>. Before this, I obtained my bachelor's degree in Electrical Engineering at Beihang University (BUAA) from 2018.
 
-My research focuses on data science methods, including theory and application for various real-world scenarios, such as recommender systems, social network, urban computing, engineering, law, health etc.
+My research focuses on data science methods, including theory and application for various real-world scenarios, such as graph neural networks, information retrieval, recommender systems, time series etc.:
+1. **Graph Neural Networks**
+  * Text-attributed graph and multimodal graph with (M)LLMs
+  * Graph foundation models
+  * Robustness and scalability of graph learning (OOD, test-time, condensation, distillation, graph-MLP etc.)
+2. **Recommendations and Information Retrieval**
+  * RL for recommendations
+  * Rich side-information in recommendations with (M)LLMs
+  * Domain-specific IR and document understanding with LLMs
+3. **Time Series**
+  * Foundation models for time series
+  * LLMs for time series
+  * Time series for cross-disciplinary applications
 
-I speak Cantonese, English, and Mandarin.
-
-<a href="./recruit">
-Recruitment: Open positions all year round!</a>
+Recruitment
+=====
+I am actively looking for (3-5) self-motivated PhD students in Year 2025. All fully funded! <a href="./recruit-phd">[For prospective PhD students]</a>, <a href="./recruit-phd-cn">[博士招生中文]</a>, <a href="./recruit-thesis">[For master theses/bachelor honours students at UQ]</a> and <a href="./recruit-intern">[For interns/visitors]</a>.
 
 Recent News
 =====
@@ -386,6 +397,7 @@ Team
 * Boyu Luo, UQ EECS PhD (7.2024-, co-advise with Helen Huang and Guangdong Bai)
 * <a href="https://yanjiangjerry.github.io/" target="_blank"> Yan Jiang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
 * <a href="https://www.linkedin.com/in/danny-wang-374581217/" target="_blank"> Danny Wang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
+* <a href="https://www.linkedin.com/in/hrishi-patel24/" target="_blank"> Hrishikesh Patel</a>, UQ EECS PhD (4.2023, co-advise with Sen Wang)
 * Yi Zhang, UQ EECS PhD (4.2023-, co-advise with Sen Wang and Jiajun Liu)
 * <a href="https://www.linkedin.com/in/yilun-allen-liu-a6b7b7190/" target="_blank"> Yilun Liu</a>, UQ EECS PhD (1.2023-, co-advise with Helen Huang)
 * <a href="https://acweb.uq.edu.au/profile/1183/jingyu" target="_blank"> Jingyu Ge</a>, UQ ACWEB PhD (1.2022-, co-advise with Zhiguo Yuan, Helen Huang, and Jiuling Li)
@@ -403,8 +415,12 @@ Service
 =====
 * Conference organisation: PhD Symposium Co-chair at <a href="https://www2025.thewebconf.org/organizing-committee" target="_blank"> WWW'25</a>, Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Co-Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>
 <!-- * Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
-* PC member: ACML'20, AJCAI'23, CIKM'24'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'24'23'20, SIGIR'24'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21 -->
+* PC member: ACML'20, AJCAI'23, CIKM'24'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'24'23'20, SIGIR'24'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21, WWW'25 -->
 
-Updated on 25/08/2024.
+MISC
+=====
+I speak Cantonese, Mandarin and English.
+
+Updated on 29/10/2024.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
