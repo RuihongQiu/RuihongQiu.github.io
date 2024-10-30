@@ -45,7 +45,7 @@ I am actively looking for self-motivated students interested in data science and
 4. Beach, coastline, island, one of the best ocean scenes in Australia and the world.
 5. Friendly international immigrant/VISA support for CS PhDs.
 
-**Welcome to email me by *"r.last-name-lowwer-case@uq.edu.au"*:**
+**Welcome to email me by *"r.last-name-lower-case@uq.edu.au"*:**
 1. Email topic: "UQ CS PhD Application by Your Name".
 2. Please attach your CV, transcripts and a representative writing sample (paper/preprint) if any.
 3. Please customize your email according to my research interest and be specific about your research interest, in several sentence.

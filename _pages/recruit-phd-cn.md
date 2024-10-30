@@ -45,7 +45,7 @@ author_profile: true
 4. 海滩、海岸线、岛屿，拥有澳洲乃至世界上最美的海景之一。
 5. 对计算机科学博士友好的工作长留/签证支持。
 
-**欢迎邮件联系 *"r.last-name-lowwer-case@uq.edu.au"*:**
+**欢迎邮件联系 *"r.last-name-lower-case@uq.edu.au"*:**
 1. 邮件主题请写: "UQ CS PhD Application by Your Name"。
 2. 请附上个人简历，成绩单以及代表性的论文或预印稿（如果有的话。
 3. 请根据我的研究兴趣写邮件，并具体说明你个人的研究兴趣，几句话即可。
