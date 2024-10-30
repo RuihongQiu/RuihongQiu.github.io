@@ -11,23 +11,14 @@ redirect_from:
 
 I am currently a <a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Lecturer/Assistant Professor</a> and an ARC DECRA fellow (2025-2027) in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I completed my PhD in Computer Science at UQ from 2019 to 2022 and subsequently worked as a Postdoctoral Research Fellow from 2022 to 2024, collaborating with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>. Before this, I obtained my bachelor's degree in Electrical Engineering at Beihang University (BUAA) from 2018.
 
-My research focuses on data science methods, including theory and application for various real-world scenarios, such as graph neural networks, information retrieval, recommender systems, time series etc.:
-1. **Graph Neural Networks**
-  * Text-attributed graph and multimodal graph with (M)LLMs
-  * Graph foundation models
-  * Robustness and scalability of graph learning (OOD, test-time, condensation, distillation, graph-MLP etc.)
-2. **Recommendations and Information Retrieval**
-  * RL for recommendations
-  * Rich side-information in recommendations with (M)LLMs
-  * Domain-specific IR and document understanding with LLMs
-3. **Time Series**
-  * Foundation models for time series
-  * LLMs for time series
-  * Time series for cross-disciplinary applications
+My research focuses on data science methods, including theory and application, such as graph neural networks, information retrieval, recommender systems, time series etc.:
+1. **Graph Neural Networks**. Text-attributed graph and multimodal graph with (M)LLMs; Graph foundation models; Robustness and scalability of graph learning (OOD, test-time, condensation, distillation, graph-MLP etc.).
+2. **Recommendations and Information Retrieval**. RL for recommendations; Rich side-information in recommendations with (M)LLMs; Domain-specific IR and document understanding with LLMs.
+3. **Time Series**. Foundation models for time series; LLMs for time series; Time series for cross-disciplinary applications.
 
 Recruitment
 =====
-I am actively looking for (3-5) self-motivated PhD students in Year 2025. All fully funded! <a href="./recruit-phd">[For prospective PhD students]</a>, <a href="./recruit-phd-cn">[博士招生中文]</a>, <a href="./recruit-thesis">[For master theses/bachelor honours students at UQ]</a> and <a href="./recruit-intern">[For interns/visitors]</a>.
+I am actively looking for **(3-5) self-motivated PhD students in Year 2025**. All fully funded! <a href="./recruit-phd">[For prospective PhD students]</a>, <a href="./recruit-phd-cn">[博士招生中文]</a>, <a href="./recruit-thesis">[For master theses/bachelor honours students at UQ]</a> and <a href="./recruit-intern">[For interns/visitors]</a>.
 
 Recent News
 =====

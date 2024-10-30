@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Recruitment"
+    url: /recruit-phd/
+    
   - title: "Publications"
     url: /publications/
 
