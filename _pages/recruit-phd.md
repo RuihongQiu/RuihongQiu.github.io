@@ -26,7 +26,7 @@ I am actively looking for self-motivated students interested in data science and
 **What I will provide:**
 1. Fully funded position with international conference travel.
 2. Nice and friendly environment.
-3. Freedom to choose topics, or I will provide ideas. Freedom to choose self-direction or close-supervision. I value self-motivation. (Tips: PhD in Aus is short, in 3-4 years. Thus pace and progress is important to finish PhD in a successful style.)
+3. Freedom to choose topics, or I will provide ideas. Freedom to choose self-direction or close-supervision. I value self-motivation. (Tips: PhD study in Aus is short, in 3-4 years. Thus pace and progress is important to finish PhD in a successful style.)
 4. Academic training, including research vision, presentation, academic writing, collaborations, management, soft skills, etc.
 5. Strong support for collaborations, internships, awards, and career development.
 
@@ -35,6 +35,7 @@ I am actively looking for self-motivated students interested in data science and
 2. The Data Science group is rapidly growing, with 4 ARC Future Fellows and 9 ARC DECRA Fellows in faculty members.
 3. ~80 A100/H100 GPU cards in cluster.
 4. One of the most beautiful campuses in the world/Australia, but really close to the city center. Sufficient facilities for various sports and cultural activities.
+5. The PhD study in Aus is short in 3-4 years, which is especially suitable for students aiming for industry or already completing a master degree. (Bachelor with a great potential but without any experience is very welcome as well, yet the challenge should be evaluated in advance :))
 
 **Why Brisbane, Queensland:**
 1. Brisbane is a VERY SAFE, large, modern and convenient city, with direct flights to many major cities in the world.
