@@ -24,7 +24,7 @@ I am actively looking for self-motivated students interested in data science and
   * Time series for cross-disciplinary applications
 
 **What I will provide:**
-1. Fully funded position with international conference travel.
+1. Fully funded position (tuition waive, living stipend of AUD $35k per year, easy to live in Brisbane) with international conference travel.
 2. Nice and friendly environment.
 3. Freedom to choose topics, or I will provide ideas. Freedom to choose self-direction or close-supervision. I value self-motivation. (Tips: PhD study in Aus is short, typically taking 3-4 years. Thus pace and progress is important to finish PhD in a successful style.)
 4. Academic training, including research vision, presentation, academic writing, collaborations, management, soft skills, etc.
