@@ -89,7 +89,7 @@ td, th {
               <br>
               Yilun Liu, <strong>Ruihong Qiu</strong>, Yanran Tang, Hongzhi Yin, Zi Huang
               <br>
-              TKDE 2024 (major revision)
+              TKDE 2024
               <br>
               <a href="https://arxiv.org/abs/2312.14439" target="_blank">arXiv</a> /
               <a href="https://github.com/superallen13/PUMA" target="_blank">code</a>
