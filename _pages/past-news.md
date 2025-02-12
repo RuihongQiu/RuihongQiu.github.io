@@ -1,5 +1,9 @@
-Past News
-=====
+---
+layout: archive
+title: "Past News"
+permalink: /past-news/
+author_profile: true
+---
 
 * 12.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at CSIRO.
 
