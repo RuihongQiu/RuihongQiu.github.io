@@ -18,7 +18,7 @@ My research focuses on data science methods, including theory and application, s
 
 Recruitment
 =====
-I am actively looking for **(3-5) self-motivated PhD students in Year 2025**. All fully funded! <a href="./recruit-phd">[For prospective PhD students]</a>, <a href="./recruit-phd-cn">[博士招生中文]</a>, <a href="./recruit-thesis">[For master theses/bachelor honours students at UQ]</a> and <a href="./recruit-intern">[For interns/visitors]</a>.
+I am actively looking for **(1-2) self-motivated PhD students in Year 2026**. All fully funded! <a href="./recruit-phd">[For prospective PhD students]</a>, <a href="./recruit-phd-cn">[博士招生中文]</a>, <a href="./recruit-thesis">[For master theses/bachelor honours students at UQ]</a> and <a href="./recruit-intern">[For interns/visitors]</a>.
 
 Recent News
 =====
@@ -56,6 +56,32 @@ td, th {
    border: none!important;
 }
 </style>
+
+## Out-of-distribution on Graphs
+
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="https://github.com/user-attachments/assets/5a3f0ea4-b8c9-422e-a540-91ff680c726b" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation</strong>
+              <br>
+              Danny Wang, <strong>Ruihong Qiu</strong>, Guangdong Bai, Zi Huang
+              <br>
+              ICLR 2025 (<strong>Spotlight</strong>)
+              <br>
+              <a href="https://arxiv.org/abs/2502.05780" target="_blank">arXiv</a> /
+              <a href="https://github.com/DannyW618/GOLD" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We propose the GOLD framework for graph OOD detection, an implicit adversarial learning pipeline with synthetic OOD exposure without pre-trained models.
+              </p>
+            </td>
+          </tr>
+</tbody>
+</table>
 
 ## Graph Condensation
 
@@ -412,6 +438,6 @@ MISC
 =====
 I speak Cantonese, Mandarin and English.
 
-Updated on 29/10/2024.
+Updated on 12/2/2025.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
