@@ -413,7 +413,8 @@ Team
 
 Service
 =====
-* Conference organisation: PhD Symposium Co-chair at <a href="https://www2025.thewebconf.org/organizing-committee" target="_blank"> WWW'25</a>, Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Co-Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>
+* Conference organisation: Area Chair at <a href="http://tcci.ccf.org.cn/conference/2025/cfp.php" target="_blank"> NLPCC'25</a>; PhD Symposium Co-Chair at <a href="https://www2025.thewebconf.org/organizing-committee" target="_blank"> WWW'25</a>; Program Committee Co-Chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>; PhD Forum Co-Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>
+
 <!-- * Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
 * PC member: ACML'20, AJCAI'23, CIKM'24'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'24'23'20, SIGIR'24'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21, WWW'25 -->
 

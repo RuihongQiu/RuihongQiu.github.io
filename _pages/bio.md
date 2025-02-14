@@ -5,4 +5,4 @@ permalink: /bio/
 author_profile: true
 ---
 
-I completed my PhD in Computer Science at UQ from 2019 to 2022 and subsequently worked as a Postdoctoral Research Fellow from 2022 to 2024, collaborating with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>. Before this, I obtained my bachelor's degree in Electrical Engineering at Beihang University (BUAA) from 2018.
+I earned my PhD in Computer Science from The University of Queensland (UQ) in 2022, followed by a Postdoctoral Research Fellowship from 2022 to 2024, collaborating with Professors <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>. Prior to that, I obtained my bachelor's degree in Electrical Engineering at Beihang University (BUAA) in 2018.
