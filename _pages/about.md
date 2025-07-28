@@ -395,10 +395,10 @@ td, th {
 Team
 =====
 * Boyu Luo, UQ EECS PhD (7.2024-, co-advise with Helen Huang and Guangdong Bai)
+* Yi Zhang, UQ EECS PhD (7.2024-, co-advise with Sen Wang and Jiajun Liu)
 * <a href="https://yanjiangjerry.github.io/" target="_blank"> Yan Jiang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
 * <a href="https://www.linkedin.com/in/danny-wang-374581217/" target="_blank"> Danny Wang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
 * <a href="https://www.linkedin.com/in/hrishi-patel24/" target="_blank"> Hrishikesh Patel</a>, UQ EECS PhD (4.2023, co-advise with Sen Wang)
-* Yi Zhang, UQ EECS PhD (4.2023-, co-advise with Sen Wang and Jiajun Liu)
 * <a href="https://www.linkedin.com/in/yilun-allen-liu-a6b7b7190/" target="_blank"> Yilun Liu</a>, UQ EECS PhD (1.2023-, co-advise with Helen Huang)
 * <a href="https://acweb.uq.edu.au/profile/1183/jingyu" target="_blank"> Jingyu Ge</a>, UQ ACWEB PhD (1.2022-, co-advise with Zhiguo Yuan, Helen Huang, and Jiuling Li)
 
