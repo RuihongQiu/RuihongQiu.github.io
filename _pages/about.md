@@ -54,7 +54,7 @@ td, th {
               <br>
               ICLR 2025 (<strong>Spotlight</strong>)
               <br>
-              <a href="https://arxiv.org/abs/2502.05780" target="_blank">arXiv</a> /
+            <a href="https://arxiv.org/abs/2502.05780" target="_blank">arXiv</a> / <a href="https://openreview.net/forum?id=y5einmJ0Yx" target="_blank">OpenReview</a> /
               <a href="https://github.com/DannyW618/GOLD" target="_blank">code</a>
               <p></p>
               <p></p>
@@ -422,6 +422,6 @@ MISC
 =====
 I speak Cantonese, Mandarin and English.
 
-Updated on 12/2/2025.
+Updated on 28/7/2025.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
