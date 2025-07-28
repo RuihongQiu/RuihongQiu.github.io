@@ -14,7 +14,7 @@ Full collection of publications on <a href="https://scholar.google.com/citations
 <h2>Journal</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
-      {% inclusde archive-single.html %}
+      {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
