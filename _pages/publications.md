@@ -27,11 +27,11 @@ Full collection of publications on <a href="https://scholar.google.com/citations
 
 **2025**
 
-Danny Wang\*, **Ruihong Qiu**, Guangdong Bai, Zi Huang, GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation, in *International Conference of Learning Representation (ICLR) 2025 (CORE A\*, Spotlight)*
+Danny Wang\*, **Ruihong Qiu**, Guangdong Bai, Zi Huang, GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation, in *International Conference of Learning Representation (ICLR) 2025 (CORE A\*, **spotlight**)*
 
 Yi Zhang\*, **Ruihong Qiu**, Xuwei Xu, Jiajun Liu, Sen Wang, DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward, in *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2025 (CORE A\*)*
 
-Chenzhi Liu\*, Mahsa Baktashmotlagh, Yanran Tang, Zi Huang, **Ruihong Qiu**, ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation, in *The British Machine Vision Conference (BMVC) 2025 (CORE A)*
+Chenzhi Liu\*, Mahsa Baktashmotlagh, Yanran Tang, Zi Huang, **Ruihong Qiu**, ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation, in *The British Machine Vision Conference (BMVC) 2025 (CORE A, **oral**)*
 
 **2024**
 
