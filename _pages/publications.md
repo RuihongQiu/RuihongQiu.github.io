@@ -27,17 +27,19 @@ Full collection of publications on <a href="https://scholar.google.com/citations
 
 **2025**
 
-Danny Wang\*, **Ruihong Qiu**, Guangdong Bai, Zi Huang, GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation, in *International Conference of Learning Representation (ICLR) 2025 (CORE A\*, **spotlight**)*
+Danny Wang\*, **Ruihong Qiu**, Guangdong Bai, Zi Huang, GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation, in *International Conference of Learning Representation (ICLR) 2025 (CORE A\*, **Spotlight**)*
+
+Danny Wang\*, **Ruihong Qiu**, Guangdong Bai, Zi Huang, Text Meets Topology: Rethinking Out-of-distribution Detection in Text-Rich Networks, in *Empirical Methods in Natural Language Processing (EMNLP) 2025 (CORE A\*, **Main**)*
 
 Yi Zhang\*, **Ruihong Qiu**, Xuwei Xu, Jiajun Liu, Sen Wang, DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward, in *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2025 (CORE A\*)*
 
-Chenzhi Liu\*, Mahsa Baktashmotlagh, Yanran Tang, Zi Huang, **Ruihong Qiu**, ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation, in *The British Machine Vision Conference (BMVC) 2025 (CORE A, **oral**)*
+Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensation, in *ACM International Conference on Information and Knowledge Management (CIKM) 2025 (CORE A)*
+
+Chenzhi Liu\*, Mahsa Baktashmotlagh, Yanran Tang, Zi Huang, **Ruihong Qiu**, ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation, in *The British Machine Vision Conference (BMVC) 2025 (CORE A, **Oral**)*
 
 **2024**
 
 Zhizhen Zhang, **Ruihong Qiu**, Xiaohui Xie, Contrastive Learning for Implicit Social Factors in Social Media Popularity Prediction, in *Preprint 2024*
-
-Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensation, in *Preprint 2024*
 
 Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li, Zi Huang, CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation, in *Preprint 2024*
 
@@ -80,7 +82,7 @@ Zhi Chen, Yadan Luo, **Ruihong Qiu**, Sen Wang, Zi Huang, Jingjing Li, Zheng Zha
 Zijian Wang, Yadan Luo, **Ruihong Qiu**, Zi Huang, Mahsa Baktashmotlagh, Learning to Diversify for Single Domain Generalization
 in *International Conference on Computer Vision (ICCV) 2021 (CORE A\*)*
 
-**Ruihong Qiu**, Sen Wang, Zhi Chen, Hongzhi Yin, Zi Huang, CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation, in *ACM International Conference on Multimedia (MM) 2021 (CORE A\*, **oral**)*
+**Ruihong Qiu**, Sen Wang, Zhi Chen, Hongzhi Yin, Zi Huang, CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation, in *ACM International Conference on Multimedia (MM) 2021 (CORE A\*, **Oral**)*
 
 Zhi Chen, Yadan Luo, Sen Wang, **Ruihong Qiu**, Jingjing Li, Zi Huang, Enhancing Generalized Zero-Shot Learning by Visual Perturbation, in *ACM International Conference on Multimedia (MM) 2021 (CORE A\*)*
 
