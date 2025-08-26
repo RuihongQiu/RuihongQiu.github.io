@@ -45,7 +45,7 @@ td, th {
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="https://github.com/user-attachments/assets/5a3f0ea4-b8c9-422e-a540-91ff680c726b" alt="PontTuset" width="200" style="border-style: none">
+              <img src="https://dannyw618.github.io/images/text-topo.png" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
               <strong>Text Meets Topology: Rethinking Out-of-distribution Detection in Text-Rich Networks</strong>
@@ -54,12 +54,12 @@ td, th {
               <br>
               EMNLP 2025 (<strong>Main</strong>)
               <br>
-            <a href="https://arxiv.org/abs/2502.05780" target="_blank">arXiv</a> / <a href="https://openreview.net/forum?id=y5einmJ0Yx" target="_blank">OpenReview</a> /
+            <a href="https://arxiv.org/abs/2508.17690" target="_blank">arXiv</a> /
               <a href="https://github.com/DannyW618/GOLD" target="_blank">code</a>
               <p></p>
               <p></p>
               <p>
-                We propose a new benchmark for OOD detection in text-based graphs, as well as a new framework for effective detection. (update coming soon)
+                We introduce TextTopoOOD, a framework for modeling diverse OOD scenarios on text-rich networks, and propose TNT-OOD, a novel detection method that captures the intricate interplay between text and topology.
               </p>
             </td>
           </tr>

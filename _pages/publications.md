@@ -33,6 +33,8 @@ Danny Wang\*, **Ruihong Qiu**, Guangdong Bai, Zi Huang, Text Meets Topology: Ret
 
 Yi Zhang\*, **Ruihong Qiu**, Xuwei Xu, Jiajun Liu, Sen Wang, DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward, in *International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2025 (CORE A\*)*
 
+Yi Zhang\*, Lili Xie\*, **Ruihong Qiu**, Jiajun Liu, Sen Wang, Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation, in *IEEE International Conference on Data Mining (ICDM) 2025 (CORE A\*)*
+
 Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensation, in *ACM International Conference on Information and Knowledge Management (CIKM) 2025 (CORE A)*
 
 Chenzhi Liu\*, Mahsa Baktashmotlagh, Yanran Tang, Zi Huang, **Ruihong Qiu**, ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation, in *The British Machine Vision Conference (BMVC) 2025 (CORE A, **Oral**)*
