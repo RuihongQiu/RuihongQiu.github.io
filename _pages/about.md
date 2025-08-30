@@ -11,10 +11,10 @@ redirect_from:
 
 I am currently a <a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Lecturer/Assistant Professor</a> and an ARC DECRA fellow (2025-2027) in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. Here is my short <a href="./bio">bio</a>.
 
-My research focuses on data science methods, including theory and application, such as graph neural networks, information retrieval, recommender systems, time series etc.:
-1. **Graph Neural Networks**. Text-attributed graph and multimodal graph with (M)LLMs; Graph foundation models; Robustness and scalability of graph learning (OOD, test-time, condensation, distillation, graph-MLP etc.).
-2. **Recommendations and Information Retrieval**. RL for recommendations; Rich side-information in recommendations with (M)LLMs; Domain-specific IR and document understanding with LLMs.
-3. **Time Series**. Foundation models for time series; LLMs for time series; Time series for cross-disciplinary applications.
+My research focuses on data science methods, including theory and application in:
+1. **Graph Foundation Models**. Text-attributed graph and multimodal graph with (M)LLMs; General graph foundation models and adaptation etc.
+2. **Information Retrieval**. (M)LLMs in IR/RecSys.
+3. **RL Tuning in LLMs**. Reasoning, post-training of (D)LLMs.
 
 Recruitment
 =====
