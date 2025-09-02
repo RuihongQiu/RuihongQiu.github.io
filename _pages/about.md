@@ -55,7 +55,7 @@ td, th {
               EMNLP 2025 (<strong>Main</strong>)
               <br>
             <a href="https://arxiv.org/abs/2508.17690" target="_blank">arXiv</a> /
-              <a href="https://github.com/DannyW618/GOLD" target="_blank">code</a>
+              <a href="https://github.com/DannyW618/TNT" target="_blank">code</a>
               <p></p>
               <p></p>
               <p>
