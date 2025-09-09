@@ -4,27 +4,14 @@ title: "Recruiting"
 permalink: /recruit-phd/
 author_profile: true
 ---
-**For PhD applicants (3-5 open positions in Year 2025)**
+**For PhD applicants (1-2 open positions in Year 2026)**
   
 CS/math/EE/physics background is preferred but not necessary. You are welcome to email me and please specify your interest in research and your interest in working with me.
 
-I am actively looking for self-motivated students interested in data science and machine learning, especially in graph neural networks, information retrieval, recommender systems, time series etc.
-
-1. **Graph Neural Networks**
-  * Text-attributed graph and multimodal graph with (M)LLMs
-  * Graph foundation models
-  * Robustness and scalability of graph learning (OOD, test-time, condensation, graph-MLP distillation etc.)
-2. **Recommendations and Information Retrieval**
-  * RL for recommendations
-  * Rich side-information in recommendations with (M)LLMs
-  * Domain-specific IR and document understanding with LLMs
-3. **Time Series**
-  * Foundation models for time series
-  * LLMs for time series
-  * Time series for cross-disciplinary applications
+I am actively looking for self-motivated students interested in data science and machine learning, especially in any specific topic at <a href="https://ruihongqiu.github.io/recruit-thesis/" target="_blank"> my homepage</a>.
 
 **What I will provide:**
-1. Fully funded position (tuition waive, living stipend of AUD $35k per year, easy to live in Brisbane) with international conference travel.
+1. Fully funded position (tuition waive, living stipend of AUD $36k per year, easy to live in Brisbane) with international conference travel.
 2. Nice and friendly environment.
 3. Freedom to choose topics, or I will provide ideas. Freedom to choose self-direction or close-supervision. I value self-motivation. (Tips: PhD study in Aus is short, typically taking 3-4 years. Thus pace and progress is important to finish PhD in a successful style.)
 4. Academic training, including research vision, presentation, academic writing, collaborations, management, soft skills, etc.

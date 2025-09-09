@@ -4,27 +4,14 @@ title: "Recruiting"
 permalink: /recruit-phd-cn/
 author_profile: true
 ---
-**2025年招收3-5名博士生**
+**2026年招收1-2名博士生**
   
 优先考虑有计算机科学、数学、电气电子工程或物理背景的同学，但不是必须条件。欢迎发邮件咨询，请简单说明你对科研的兴趣以及想和我一起工作的原因。
 
-本人正在寻找对数据科学和机器学习有兴趣的，有自我驱动力的学生，研究兴趣尤其在 graph neural networks, information retrieval, recommender systems, time series 等等。
-
-1. **Graph Neural Networks**
-  * Text-attributed graph and multimodal graph with (M)LLMs
-  * Graph foundation models
-  * Robustness and scalability of graph learning (OOD, test-time, condensation, graph-MLP distillation etc.)
-2. **Recommendations and Information Retrieval**
-  * RL for recommendations
-  * Rich side-information in recommendations with (M)LLMs
-  * Domain-specific IR and document understanding with LLMs
-3. **Time Series**
-  * Foundation models for time series
-  * LLMs for time series
-  * Time series for cross-disciplinary applications
+本人正在寻找对数据科学和机器学习有兴趣的，研究兴趣和我<a href="https://ruihongqiu.github.io/recruit-thesis/" target="_blank">主页</a>相关的，有自我驱动力的学生。
 
 **本人可以提供什么：**
-1. 全额资助的 PhD 学位（免学费，奖学金3.5万澳元/约17万人民币每年，轻松覆盖布里斯班生活成本），充足预算支持国际会议。
+1. 全额资助的 PhD 学位（免学费，奖学金3.6万澳元/约17万人民币每年，轻松覆盖布里斯班生活成本），充足预算支持国际会议。
 2. 一个友好、轻松的环境。
 3. 学生可自由选择研究方向，或者由我提供科研意见。无论是希望独立开展课题（放羊），还是希望密切指导（不放羊），都可以。本人很看重自我驱动力。（小提示：澳大利亚 PhD 学位较短，通常是 3-4 年。所以个人节奏和进展对于 PhD 经历的成功很重要。）
 4. 全面的学术培训，包括研究视野、学术演讲技巧、学术写作能力、合作能力、管理和软技能等。

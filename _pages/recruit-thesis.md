@@ -5,21 +5,7 @@ permalink: /recruit-thesis/
 author_profile: true
 ---
 
-I am actively looking for self-motivated students interested in data science and machine learning, especially in graph neural networks, information retrieval, recommender systems, time series etc.
-
-### Research interests:
-1. **Graph Neural Networks**
-  * Text-attributed graph and multimodal graph with (M)LLMs
-  * Graph foundation models
-  * Robustness and scalability of graph learning (OOD, test-time, condensation, distillation, graph-MLP etc.)
-2. **Recommendations and Information Retrieval**
-  * RL for recommendations
-  * Rich side-information in recommendations with (M)LLMs
-  * Domain-specific IR and document understanding with LLMs
-3. **Time Series**
-  * Foundation models for time series
-  * LLMs for time series
-  * Time series for cross-disciplinary applications
+I am actively looking for self-motivated students with general interest in data science and machine learning within UQ. Please visit <a href="https://student.eait.uq.edu.au/projects/?semester_id%5B%5D=7520&school_id%5B%5D=itee&q=&sendButton=" target="_blank"> Project Database</a> for available projects.
 
 **For UQ's master/undergraduate students**
   
