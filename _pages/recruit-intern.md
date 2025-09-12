@@ -11,7 +11,7 @@ I am actively looking for self-motivated intern students interested in data scie
   
   You must have ML/DL/DM research background. Welcome to email me with a specific research plan for short-term work.
 
-**Email me "r.last-name-lowwer-case@uq.edu.au":**
+**Email me "r.last-name-lower-case@uq.edu.au":**
 1. Email topic: "UQ CS Thesis Application by Your Name".
 2. Please attach your CV, transcripts and a representative writing sample (paper/preprint) if any.
 3. Please customize your email according to my research interest and be specific about your research interest, in several sentence.

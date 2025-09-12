@@ -18,7 +18,10 @@ My research focuses on data science methods, including theory and application in
 
 Recruitment
 =====
-I am actively looking for **(1-2) self-motivated PhD students in Year 2026**. All fully funded! <a href="./recruit-phd">[For prospective PhD students]</a>, <a href="./recruit-phd-cn">[博士招生中文]</a>, <a href="./recruit-thesis">[For master theses/bachelor honours students at UQ]</a> and <a href="./recruit-intern">[For interns/visitors]</a>.
+I am actively looking for **(1-2) self-motivated PhD students in Year 2026, all fully funded!**
+* <a href="./recruit-phd">[For prospective PhD students]</a> <a href="./recruit-phd-cn">/ [博士招生中文]</a>.
+* <a href="./recruit-thesis">[For master thesis, bachelor honours or Summer/Winter Research students at UQ]</a>.
+* <a href="./recruit-intern">[For interns / visitors]</a>.
 
 Recent News
 =====
