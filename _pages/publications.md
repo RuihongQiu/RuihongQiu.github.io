@@ -39,6 +39,8 @@ Yilun Liu\*, **Ruihong Qiu**, Zi Huang, GCondenser: Benchmarking Graph Condensat
 
 Chenzhi Liu\*, Mahsa Baktashmotlagh, Yanran Tang, Zi Huang, **Ruihong Qiu**, ALSA: Anchors in Logit Space for Out-of-Distribution Accuracy Estimation, in *The British Machine Vision Conference (BMVC) 2025 (CORE A, **Oral**)*
 
+Lili Xie\*, Yi Zhang\*, **Ruihong Qiu**, Jiajun Liu and Sen Wang, MARCO: A Cooperative Knowledge Transfer Framework for Personalized Cross-domain Recommendations, in *International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP) 2025*
+
 **2024**
 
 Zhizhen Zhang, **Ruihong Qiu**, Xiaohui Xie, Contrastive Learning for Implicit Social Factors in Social Media Popularity Prediction, in *Preprint 2024*
