@@ -9,7 +9,7 @@ redirect_from:
 ---
 邱瑞鸿 /`ray hong chill/
 
-I am currently a <a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Lecturer/Assistant Professor</a> and an ARC DECRA fellow (2025-2027) in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. Here is my short <a href="./bio">bio</a>.
+I am currently a <a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Lecturer/Assistant Professor</a> and an ARC DECRA fellow (2025-2028) in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. Here is my short <a href="./bio">bio</a>.
 
 My research focuses on data science methods, including theory and application in:
 1. **Graph Foundation Models**. Text-attributed graph and multimodal graph with (M)LLMs; General graph foundation models and adaptation etc.
