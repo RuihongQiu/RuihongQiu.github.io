@@ -9,7 +9,7 @@ redirect_from:
 ---
 邱瑞鸿 /`ray hong chill/
 
-I am currently a <a href="https://en.wikipedia.org/wiki/Lecturer" target="_blank">Lecturer/Assistant Professor</a> and an ARC DECRA fellow (2025-2028) in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. Here is my short <a href="./bio">bio</a>.
+I am currently an Assistant Professor and an ARC DECRA fellow (2025-2028) in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. Here is my short <a href="./bio">bio</a>.
 
 My research focuses on data science methods, including theory and application in:
 1. **Graph Foundation Models**. Text-attributed graph and multimodal graph with (M)LLMs; General graph foundation models and adaptation etc.
@@ -25,7 +25,9 @@ I am actively looking for **(1-2) self-motivated PhD students in Year 2026, all 
 
 Recent News
 =====
-* 08.2024 ARC DECRA project funded, "Lifelong Paradigms for Versatile, Robust and Agile Recommender Systems" (2025-2027)
+* 10.2025 Our paper, "Beyond Static LLM Policies: Imitation-Enhanced Reinforcement Learning for Recommendation" is selected as Best Paper Finalist, ICDM 2025.
+
+* 08.2024 ARC DECRA project funded, "Lifelong Paradigms for Versatile, Robust and Agile Recommender Systems" (2025-2028)
 
 * 06.2024 Our team gives a talk, "Effective Representation Learning for Legal Case Retrieval", at IR Seminar, the University of Glasgow. [\[slides\]](../files/LCR_THUIR.pdf){:target="_blank"}
 
@@ -445,6 +447,6 @@ MISC
 =====
 I speak Cantonese, Mandarin and English.
 
-Updated on 21/8/2025.
+Updated on 16/10/2025.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
