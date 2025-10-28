@@ -25,6 +25,10 @@ Full collection of publications on <a href="https://scholar.google.com/citations
   {% endif %}
 {% endfor %} -->
 
+**2026**
+
+Yan Jiang\*, **Ruihong Qiu**, Zi Huang, Does Homophily Help in Robust Test-time Node Classification?, in *ACM International Conference on Web Search and Data Mining (WSDM) 2026 (CORE A, **Oral**)*
+
 **2025**
 
 Danny Wang\*, **Ruihong Qiu**, Guangdong Bai, Zi Huang, GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation, in *International Conference of Learning Representation (ICLR) 2025 (CORE A\*, **Spotlight**)*
@@ -73,7 +77,7 @@ Kaili Li, Haoran Duan, Linfeng Liu, **Ruihong Qiu**, Ben van den Akker, Bing-Jie
 
 **Ruihong Qiu**, Zi Huang, Hongzhi Yin, Beyond Double Ascent via Recurrent Neural Tangent Kernel in Sequential Recommendation, in *IEEE International Conference on Data Mining (ICDM) 2022 (CORE A\*, acceptance rate **9.8%**)*
 
-**Ruihong Qiu**, Zi Huang, Hongzhi Yin, Zijian Wang, Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation, in *ACM International Conference on Web Search and Data Mining (WSDM) 2022 (CORE A\*)*
+**Ruihong Qiu**, Zi Huang, Hongzhi Yin, Zijian Wang, Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation, in *ACM International Conference on Web Search and Data Mining (WSDM) 2022 (CORE A)*
 
 **2021**
 

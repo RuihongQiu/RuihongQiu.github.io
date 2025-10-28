@@ -88,6 +88,26 @@ td, th {
               </p>
             </td>
           </tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/graphost.jpg" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>Does Homophily Help in Robust Test-time Node Classification?</strong>
+              <br>
+              Yan Jiang, <strong>Ruihong Qiu</strong>, Zi Huang
+              <br>
+              WSDM 2026 (<strong>Oral</strong>)
+              <br>
+            <a href="https://arxiv.org/abs/2510.22289" target="_blank">arXiv</a> /
+              <a href="https://github.com/YanJiangJerry/GrapHoST" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We propose the GrapHoST framework for graph learning to conduct test-time graph transformation based on homophily to enhance the robustness of graph models.
+              </p>
+            </td>
+          </tr>
 </tbody>
 </table>
 
