@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Recruiting"
+title: "Recruiting-UQ Only"
 permalink: /recruit-thesis/
 author_profile: true
 ---
 
-I am actively looking for self-motivated students with general interest in data science and machine learning within UQ. Please visit <a href="https://student.eait.uq.edu.au/projects/?semester_id%5B%5D=7520&school_id%5B%5D=itee&q=&sendButton=" target="_blank"> Project Database</a> for my available projects.
+I am actively looking for self-motivated students (**UQ Only**) with general interest in data science and machine learning within UQ. Please visit <a href="https://student.eait.uq.edu.au/projects/?semester_id%5B%5D=7520&school_id%5B%5D=itee&q=&sendButton=" target="_blank"> Project Database</a> for my available projects.
 
 These projects are primarily intended for students who are **committed to pursuing a PhD** after their coursework studies (not necessarily within my group). Gaining pre-PhD research experience at a PhD-level standard for six months or even longer provides a significantly higher chance of securing a PhD position afterwards.
 
